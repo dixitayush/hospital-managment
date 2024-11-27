@@ -1,2 +1,2 @@
 # hospital-managment
-hsopital management uding jdp servlet
+hsopital management uding jsp servlet
